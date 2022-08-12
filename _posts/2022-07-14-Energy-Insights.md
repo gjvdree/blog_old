@@ -1,3 +1,7 @@
+---
+title: "Energie Inzicht"
+date: 2022-07-14
+---
 # Grip op je energie
 
 ### Dev
