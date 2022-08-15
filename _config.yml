@@ -9,6 +9,6 @@ twitter_username: GertjanvdRee # DO NOT include the @ character, or else the bui
 github_username:  gjvdree # DO NOT include the @ character, or else the build will fail!
 
 # theme
-theme: jekyll-theme-minimal
+theme: jekyll-theme-tactile
 
 show_excerpts: true # set to false to remove excerpts on the homepage
