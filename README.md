@@ -1,3 +1,3 @@
-# Your GitHub Learning Lab Repository for GitHub Pages
+# My nerdy tech blog
 
 Welcome to my blog Repo
