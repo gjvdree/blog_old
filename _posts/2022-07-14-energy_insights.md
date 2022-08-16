@@ -1,3 +1,8 @@
+layout: post
+title: "Energy Insights"
+date: 2022-07-14 12:00:00 -0000
+categories: HomeAssistant RPi
+
 # Grip op je energie
 
 ### Dev
