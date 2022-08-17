@@ -12,7 +12,7 @@ De developer in mij wil graag alles automatiseren, want waarom een kleine taak d
 
 ### RPi (Raspberry Pi)
 ![image alt >](assets/images/2022-07-14-Energy_Insights_image001.jpg)
-Ergens op zolder lag nog een raspberry Pi stof te vergaren. Een raspberry Pi is een minicomputer ter grootte van een creditcard met een legio aan mogelijkheden. Niet om windows op te draaien, want daar is hij niet krachtig genoeg voor, maar voor een leuk hobby projectje zijn ze perfect. Ze kosten een paar tientjes en gebruiken weinig stroom. Je zou er een mediaserver op kunnen draaien, of van die oude usb stick een netwerkschijf kunnen maken. Een collega heeft zelfs zijn brievenbus zo slim gemaakt dat hij weet wanneer de postbode is geweest. Ik gebruik hem om er HomeAssistant op te draaien voor home automation.
+Ergens op zolder lag nog een Raspberry Pi stof te vergaren. Een raspberry Pi is een minicomputer ter grootte van een creditcard met een legio aan mogelijkheden. Niet om windows op te draaien, want daar is hij niet krachtig genoeg voor, maar voor een leuk hobby projectje zijn ze perfect. Ze kosten een paar tientjes en gebruiken weinig stroom. Je zou er een mediaserver op kunnen draaien, of van die oude usb stick een netwerkschijf kunnen maken. Een collega heeft zelfs zijn brievenbus zo slim gemaakt dat hij weet wanneer de postbode is geweest. Ik gebruik hem om er HomeAssistant op te draaien voor home automation.
 
 ### Home Assistant
 Home Assistant is een gratis en open source domotica systeem met de focus op privacy en controle.
