@@ -11,7 +11,7 @@ categories: HomeAssistant
 De developer in mij wil graag alles automatiseren, want waarom een kleine taak doen in een paar minuten als je er uren aan kan besteden om het te automatiseren. Fröbelen met techniek is nu eenmaal een hobby waar ik energie uit haal. Met de stijgende gasprijzen, omvallende energiemaatschappijen en een klimaatcrisis kan een extra kritische blik op de energieconsumptie zeker geen kwaad. In dit blog vertel ik je hoe ik meer inzicht in het energieverbruik heb gekregen.
 
 ### RPi (Raspberry Pi)
-<img align="right" width="20%" src="../../../../assets/images/2022-07-14-Energy_Insights_image001.jpg">
+![image alt >](assets/images/2022-07-14-Energy_Insights_image001.jpg)
 Ergens op zolder lag nog een raspberry Pi stof te vergaren. Een raspberry Pi is een minicomputer ter grootte van een creditcard met een legio aan mogelijkheden. Niet om windows op te draaien, want daar is hij niet krachtig genoeg voor, maar voor een leuk hobby projectje zijn ze perfect. Ze kosten een paar tientjes en gebruiken weinig stroom. Je zou er een mediaserver op kunnen draaien, of van die oude usb stick een netwerkschijf kunnen maken. Een collega heeft zelfs zijn brievenbus zo slim gemaakt dat hij weet wanneer de postbode is geweest. Ik gebruik hem om er HomeAssistant op te draaien voor home automation.
 
 ### Home Assistant
